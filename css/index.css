@@ -297,6 +297,11 @@ img {
   width: 75%;
   margin: 0 auto 30px;
 }
+.home .content-destination canvas {
+  border: 1px solid black;
+  width: 560px;
+  height: 360px;
+}
 @media (max-width: 500px) {
   .home .content-destination {
     width: 100%;
